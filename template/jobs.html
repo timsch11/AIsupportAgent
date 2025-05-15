@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/jobs.css">
+    <title>Email Analysis Dashboard</title>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Email Analysis Dashboard</h1>
+            <div class="header-actions">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="Search emails...">
+                </div>
+                <button id="refresh-btn" class="refresh-btn">Refresh Emails</button>
+            </div>
+        </header>
+
+        <div class="email-list" id="email-list">
+            <!-- Emails will be populated here by JavaScript -->
+            <div class="loading-indicator">Loading emails...</div>
+        </div>
+
+        <div class="pagination" id="pagination">
+            <!-- Pagination will be added by JavaScript -->
+        </div>
+    </div>
+
+    <div class="toast" id="toast">
+        <div class="editable-content">Analysis complete!</div>
+        <button class="toast-close">&times;</button>
+    </div>
+
+    <script src="static/jobs.js"></script>
+</body>
+</html>

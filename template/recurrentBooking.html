@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tennis Court Booking</title>
+    <link rel="stylesheet" href="static\recurrentBooking.css"
+</head>
+<body>
+    <header>
+        <h1>Add a New User</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/users">Add Users</a></li>
+                <li><a href="/booking">Recurrent Bookings</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <h2>Recurrent Tennis Court Booking</h2>
+        <form id="bookingForm">
+            <label for="court">Select Court:</label>
+            <select id="court" required>
+                <option value="1">Court 1</option>
+                <option value="2">Court 2</option>
+                <option value="3">Court 3</option>
+                <option value="4">Court 4</option>
+                <option value="5">Court 5</option>
+            </select>
+            
+            <label for="startDate">Start Date:</label>
+            <input type="date" id="startDate" required>
+            
+            <label for="duration">Duration (weeks):</label>
+            <input type="number" id="duration" min="1" required>
+            
+            <label for="category">Category:</label>
+            <select id="category" required>
+                <option value="Einzel">Einzel</option>
+                <option value="Doppel">Doppel</option>
+                <option value="Punktspiel">Punktspiel</option>
+                <option value="Training">Training</option>
+                <option value="Veranstaltung">Veranstaltung</option>
+                <option value="Vereinsmeisterschaft">Vereinsmeisterschaft</option>
+            </select>
+            
+            <button type="submit">Book Now</button>
+        </form>
+        <p id="successMessage" class="hidden">Booked successfully!</p>
+    </div>
+    <script src="static/recurrentBooking.js"></script>
+</body>
+</html>

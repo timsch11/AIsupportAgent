@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking System</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <!-- Welcome to the Future of Booking! -->
+    <header>
+        <h1>Welcome to Our Booking System</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/users">Add Users</a></li>
+                <li><a href="/booking">Recurrent Bookings</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section class="intro">
+            <h2>Automate Your Bookings Effortlessly</h2>
+            <p>Seamless and efficient booking management system at your fingertips.</p>
+        </section>
+    </main>
+    
+    <section class="chat-interface">
+        <h2>What can I do?</h2>
+        <div class="chat-box">
+            <div class="messages" id="chat-messages">
+                <!-- Messages will appear here -->
+            </div>
+            <input type="text" id="user-input" placeholder="Type your message here...">
+            <button id="send-button">Send</button>
+            
+            <!-- New request categorization and user info panel -->
+            <div class="request-info-panel" id="request-info-panel" style="display: none;">
+                <div class="request-category">
+                    <label for="request-type">Request Category:</label>
+                    <input type="text" id="request-type" readonly>
+                </div>
+                <div class="user-info">
+                    <label for="username">Username:</label>
+                    <input type="text" id="username" placeholder="Enter username">
+                </div>
+                <button id="confirm-action">Confirm Action</button>
+                <button id="cancel-action">Cancel</button>
+            </div>
+        </div>
+    </section>
+
+    <script src="static/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,679 @@
+3  
+     
+    Ich habe mein Passwort vergessen und würde es gerne zurücksetzen. Könnt ihr mir helfen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+     
+    Hi, ich habe gestern ein neues Passwort festgelegt, aber es funktioniert nicht. Könnt ihr das zurücksetzen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+3  
+     
+    Hallo, ich möchte mich anmelden, aber ich habe meine Zugangsdaten vergessen. Kann mein Passwort zurückgesetzt werden?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+3  
+     
+    Guten Abend, ich bin neu im Verein und versuche, mich anzumelden. Wo finde ich die Anmeldung?  
+    
+    
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo! Um dich anzumelden, gehe auf die Anmeldeseite und gib deine E-Mail-Adresse und ein Passwort an. Lass mich wissen, wenn du Hilfe benötigst!",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+3  
+     
+    Hallo, ich wollte mich einloggen, aber es funktioniert nicht. Ich bekomme immer die Fehlermeldung: 'Passwort inkorrekt'. Könnt ihr bitte mein Passwort zurücksetzen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+4  
+     
+    Ich habe vor einigen Wochen ein Konto angelegt, aber ich komme gerade nicht mehr rein. Kann das Passwort zurückgesetzt werden?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+4  
+     
+    Hallo! Ich würde gerne ein Benutzerkonto für meinen Kollegen anlegen. Wie gehe ich da vor?  
+    
+    
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo! Bitte teile mir den Namen deines Kollegen sowie die E-Mail-Adresse mit, damit ich ein Benutzerkonto für ihn anlegen kann. Ich freue mich, dir zu helfen!",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+4  
+     
+    Hi, ich möchte mich für ein Konto anmelden, aber ich finde die Seite nicht. Könnt ihr mir helfen?  
+    
+    
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo, um ein Konto zu erstellen, gehe einfach auf die Seite 'Registrieren' oben rechts auf der Website. Lass mich wissen, falls du Unterstützung bei der Anmeldung benötigst!",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+4  
+     
+    Ich komme immer noch nicht in mein Konto. Was kann ich noch tun, wenn das Passwort zurückgesetzt wurde?  
+    
+    
+{
+        "Kategorie": "Sonstiges",
+        "Antwort": "Hallo, tut mir leid, dass du weiterhin Probleme beim Einloggen hast. Hast du vielleicht den richtigen Benutzernamen verwendet? Bitte gib mir deinen Namen und ich schaue es mir an.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+4  
+     
+    Ich habe ein neues Passwort erstellt, aber es funktioniert trotzdem nicht. Kannst du mir bitte weiterhelfen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+4  
+     
+    Guten Morgen! Ich habe vor kurzem einen Account erstellt, aber jetzt komme ich nicht mehr rein. Was muss ich tun?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+4  
+     
+    Ich wollte gerade einloggen und wurde aufgefordert, mein Passwort zu ändern. Leider habe ich es vergessen. Kannst du es zurücksetzen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+4  
+     
+    Ich habe mich heute morgen angemeldet, aber jetzt funktioniert mein Passwort nicht mehr. Was soll ich tun?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+4  
+     
+    Ich würde gerne mein Passwort zurücksetzen, aber ich bin mir nicht sicher, wie das geht. Bitte hilft mir!  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+4  
+     
+    Hallo, ich möchte mich anmelden, aber ich habe mein Passwort vergessen. Bitte setzt es zurück!  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+5  
+     
+    Ich möchte ein Benutzerkonto für meine Freundin anlegen. Was muss ich dafür tun?  
+    
+    
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo! Bitte teile mir den Namen und die E-Mail-Adresse deiner Freundin mit, damit ich ihr ein Benutzerkonto anlegen kann. Ich freue mich, dir zu helfen!",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+
+Hallo, ich wollte mich gerade anmelden, aber mein Passwort scheint nicht zu funktionieren. Kannst du es zurücksetzen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+5  
+     
+    Ich habe mein Passwort geändert und nun komme ich nicht mehr ins System. Könnt ihr das bitte zurücksetzen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+5  
+     
+    Hallo, ich habe vor kurzem ein Benutzerkonto erstellt, aber ich kann mich immer noch nicht anmelden. Kannst du mir bitte weiterhelfen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+5  
+     
+    Ich würde gerne ein Benutzerkonto für meinen Bruder anlegen, aber ich bin mir nicht sicher, wie ich das tun kann. Was muss ich tun?  
+    
+    
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo, um ein Benutzerkonto für deinen Bruder anzulegen, benötige ich seinen Namen und seine E-Mail-Adresse. Dann lege ich das Konto für ihn an. Lass mich wissen, wenn du Unterstützung brauchst!",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+5  
+     
+    Hallo! Ich möchte mich anmelden, aber die Seite lädt nicht. Gibt es ein Problem mit dem System?  
+    
+    
+{
+        "Kategorie": "Sonstiges",
+        "Antwort": "Hallo, es tut mir leid, dass du auf Probleme stößt. Versuche bitte, die Seite neu zu laden oder einen anderen Browser zu verwenden. Wenn es weiterhin nicht funktioniert, teile mir bitte deinen Namen mit und ich schaue es mir an.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+5  
+     
+    Ich möchte ein Konto für meine Tochter erstellen, aber bin mir nicht sicher, ob ich die richtigen Informationen habe. Was wird benötigt?  
+    
+    
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo, um ein Konto für deine Tochter zu erstellen, benötige ich ihren Namen und ihre E-Mail-Adresse. Ich werde den Rest dann für dich erledigen!",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+5  
+     
+    Ich habe mein Passwort geändert, aber der Login funktioniert immer noch nicht. Was kann ich tun?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+5  
+     
+    Hallo, ich kann mich seit dem letzten Update nicht mehr einloggen. Bitte hilft mir, mein Passwort zurückzusetzen!  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+5  
+     
+    Ich wollte mich gerade einloggen, aber ich habe mein Passwort vergessen. Könnt ihr das für mich zurücksetzen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+6  
+     
+    Ich wollte mich anmelden, aber die Seite zeigt mir ständig einen Fehler. Kannst du mir sagen, was da los ist?  
+    
+    
+{
+        "Kategorie": "Sonstiges",
+        "Antwort": "Hallo, es tut mir leid, dass du auf ein Problem stößt. Versuche, die Seite neu zu laden oder einen anderen Browser zu verwenden. Wenn es weiterhin nicht funktioniert, teile mir bitte deinen Namen mit und ich schaue es mir an.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+6  
+     
+    Hi, ich wollte mich anmelden und bekam die Fehlermeldung 'Benutzername oder Passwort falsch'. Was nun?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+6  
+     
+    Ich habe vor kurzem ein neues Passwort festgelegt und nun komme ich nicht mehr rein. Kannst du es zurücksetzen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+6  
+     
+    Ich kann mich nicht anmelden. Gibt es ein Problem mit meinem Account?  
+    
+    
+{
+        "Kategorie": "Sonstiges",
+        "Antwort": "Hallo, es tut mir leid, dass du nicht einloggen kannst. Wenn du möchtest, kann ich dein Passwort zurücksetzen. Teile mir bitte deinen Namen mit, damit ich weiterhelfen kann.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+6  
+     
+    Ich kann mein Passwort nicht ändern. Es klappt einfach nicht. Könnt ihr mir dabei helfen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+6  
+     
+    Ich würde gerne ein Benutzerkonto für meinen Kollegen anlegen. Was muss ich tun?  
+    
+    
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo! Bitte teile mir den Namen deines Kollegen sowie seine E-Mail-Adresse mit, damit ich das Konto anlegen kann. Ich freue mich, dir zu helfen!",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+Natürlich! Hier kommen noch mehr kreative Anfragen für dein Tennis-Buchungssystem! 😊
+
+6  
+     
+    Hi, ich kann mich nicht mehr anmelden. Mein Passwort funktioniert nicht mehr. Könnt ihr es zurücksetzen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+6  
+     
+    Ich wollte heute ein Konto erstellen, aber ich weiß nicht, ob das alles geklappt hat. Könnt ihr mir helfen?  
+    
+    
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo! Ich schaue mir das für dich an. Bitte teile mir deinen Namen und deine E-Mail-Adresse mit, damit ich sicherstellen kann, dass das Konto korrekt angelegt wurde.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+6  
+     
+    Ich versuche mich seit Stunden einzuloggen, aber es klappt nicht. Kannst du mein Passwort zurücksetzen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+6  
+     
+    Hallo, ich kann mich in mein Konto einloggen, aber ich habe keine Ahnung, wie ich ein Platzbuchung vornehme. Kannst du mir helfen?  
+    
+    
+{
+        "Kategorie": "Sonstiges",
+        "Antwort": "Hallo! Um eine Platzbuchung vorzunehmen, melde dich einfach an und gehe zum Abschnitt 'Platz buchen'. Wenn du Hilfe bei der Buchung benötigst, stehe ich gerne zur Verfügung!",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+7  
+     
+    Ich möchte das Passwort für mein Konto zurücksetzen, aber ich habe den Benutzernamen vergessen. Was soll ich tun?  
+    
+    
+{
+        "Kategorie": "Sonstiges",
+        "Antwort": "Kein Problem! Bitte teile mir deinen vollständigen Namen mit, damit ich dir weiterhelfen kann. Ich werde deinen Benutzernamen dann heraussuchen.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+7  
+     
+    Hi, ich habe gestern ein neues Passwort festgelegt, aber ich habe es vergessen. Könnt ihr es zurücksetzen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+7  
+     
+    Hallo, ich kann mich nicht anmelden. Mein Passwort funktioniert nicht, könnt ihr es zurücksetzen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+7  
+     
+    Ich würde gerne ein Benutzerkonto für meinen Kollegen anlegen. Was muss ich dafür tun?  
+    
+    
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo! Um ein Konto für deinen Kollegen anzulegen, benötige ich seinen Namen und seine E-Mail-Adresse. Dann kann ich das für dich erledigen.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+7  
+     
+    Hallo, ich kann mich mit meinem Passwort nicht einloggen, weil das System immer 'Benutzername oder Passwort falsch' anzeigt. Was nun?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+7  
+     
+    Hallo! Ich habe gerade versucht, ein Benutzerkonto zu erstellen, aber ich bin mir nicht sicher, ob alles geklappt hat. Was sollte ich tun?  
+    
+    
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo! Bitte teile mir deinen Namen und deine E-Mail-Adresse mit, damit ich überprüfen kann, ob dein Benutzerkonto korrekt angelegt wurde.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+7  
+     
+    Ich komme nicht mehr in mein Konto. Was soll ich tun, wenn das Passwort zurückgesetzt wurde und es immer noch nicht klappt?  
+    
+    
+{
+        "Kategorie": "Sonstiges",
+        "Antwort": "Hallo! Es tut mir leid, dass du immer noch Probleme hast. Hast du den richtigen Benutzernamen verwendet? Wenn du möchtest, kann ich dir dabei helfen. Bitte teile mir deinen Namen mit und ich schaue mir das an.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+7  
+     
+    Ich möchte mich bei meinem Konto anmelden, aber jedes Mal wird mir ein Fehler angezeigt. Könnt ihr mir bitte helfen?  
+    
+    
+{
+        "Kategorie": "Sonstiges",
+        "Antwort": "Es tut mir leid, dass du auf Probleme stößt. Versuche bitte, deinen Cache zu leeren oder einen anderen Browser zu verwenden. Wenn das Problem weiterhin besteht, teile mir bitte deinen Namen mit, damit ich das für dich prüfen kann.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+7  
+     
+    Hallo! Ich habe mein Passwort vergessen. Könnt ihr es bitte zurücksetzen?  
+    
+    
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": ""
+}
+    
+
+7  
+     
+    Ich möchte mein Passwort zurücksetzen, aber ich habe den Benutzernamen vergessen. Wie kann ich weiterhelfen?  
+    
+    
+{
+        "Kategorie": "Sonstiges",
+        "Antwort": "Kein Problem! Bitte teile mir deinen vollständigen Namen mit, damit ich den Benutzernamen für dich finden kann. Ich helfe dir dann weiter.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+    
+
+
+Ich habe mein Passwort geändert, aber ich kann mich immer noch nicht einloggen. Was soll ich tun?
+{
+    "Kategorie": "Password zurücksetzen",
+    "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": ""
+}

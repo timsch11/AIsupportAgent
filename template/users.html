@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Users</title>
+    <link rel="stylesheet" href="static/users.css">
+</head>
+<body>
+    <!-- Bringing new users on board! -->
+    <header>
+        <h1>Add a New User</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/users">Add Users</a></li>
+                <li><a href="/booking">Recurrent Bookings</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section class="form-section">
+            <h2>Enter User Details</h2>
+            <form id="userForm" action="/addUser" method="post">
+                <label for="firstname">First name:</label>
+                <input type="text" id="firstname" name="firstname" required>
+                
+                <label for="secondname">Second name:</label>
+                <input type="text" id="secondname" name="secondname" required>
+                
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+                
+                <button type="submit">Add User</button>
+            </form>
+            <p id="successMessage" class="hidden">User added successfully!</p>
+        </section>
+    </main>
+
+    <script src="static/users.js"></script>
+</body>
+</html>

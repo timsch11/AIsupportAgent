@@ -1,0 +1,328 @@
+:root {
+    --primary-color: #4a6fa5;
+    --secondary-color: #6b8cbe;
+    --background-color: #f8f9fa;
+    --card-color: #ffffff;
+    --text-color: #333333;
+    --border-color: #e0e0e0;
+    --hover-color: #f1f5f9;
+    --button-color: #4a6fa5;
+    --button-hover: #375982;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.header-actions {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+h1 {
+    color: var(--primary-color);
+}
+
+.search-box {
+    display: flex;
+    background-color: var(--card-color);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 8px 15px;
+    width: 300px;
+}
+
+.search-box input {
+    border: none;
+    outline: none;
+    flex-grow: 1;
+    font-size: 14px;
+}
+
+.email-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.email-card {
+    background-color: var(--card-color);
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    padding: 20px;
+    transition: all 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.email-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: var(--hover-color);
+}
+
+.email-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.sender-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.sender-name {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.sender-email {
+    color: #777;
+    font-size: 14px;
+}
+
+.email-timestamp {
+    color: #888;
+    font-size: 13px;
+}
+
+.email-subject {
+    font-weight: 600;
+    font-size: 18px;
+    margin: 8px 0;
+}
+
+.email-preview {
+    color: #555;
+    max-height: 60px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.5;
+}
+
+.email-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.email-tags {
+    display: flex;
+    gap: 8px;
+}
+
+.tag {
+    background-color: rgba(74, 111, 165, 0.1);
+    color: var(--primary-color);
+    padding: 4px 10px;
+    border-radius: 50px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.unread {
+    position: relative;
+}
+
+.unread::before {
+    content: '';
+    position: absolute;
+    left: -20px;
+    top: 20px;
+    width: 10px;
+    height: 10px;
+    background-color: var(--primary-color);
+    border-radius: 50%;
+}
+
+.analyze-btn {
+    background-color: var(--button-color);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.analyze-btn:hover {
+    background-color: var(--button-hover);
+}
+
+.refresh-btn {
+    background-color: var(--button-color);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.refresh-btn:hover {
+    background-color: var(--button-hover);
+}
+
+.loading {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 3px solid rgba(255,255,255,.3);
+    border-radius: 50%;
+    border-top-color: white;
+    animation: spin 1s ease-in-out infinite;
+    margin-left: 8px;
+}
+
+.loading-indicator {
+    text-align: center;
+    padding: 20px;
+    color: var(--text-color);
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+.analyzing {
+    pointer-events: none;
+    opacity: 0.7;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 5px;
+}
+
+.pagination button {
+    background-color: var(--card-color);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.pagination button:hover, .pagination button.active {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.empty-state {
+    text-align: center;
+    padding: 40px;
+    color: #888;
+}
+
+/* Toast notification for analysis completion */
+.toast {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #2c3e50;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 4px;
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.3s;
+    z-index: 1000;
+    min-width: 300px;
+    max-width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.toast.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.editable-content {
+    flex-grow: 1;
+    padding-right: 10px;
+    outline: none;
+    max-height: 120px;
+    overflow-y: auto;
+}
+
+.editable-content:focus {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 3px;
+}
+
+.toast-close {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 0 5px;
+}
+
+.toast-close:hover {
+    opacity: 0.8;
+}
+
+.action-btn {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    margin-left: 10px;
+}
+
+.action-btn:hover {
+    background-color: #218838;
+}
+
+.action-btn:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+}
+
+.completed-tag {
+    background-color: rgba(40, 167, 69, 0.1);
+    color: #28a745;
+}

@@ -1,0 +1,1309 @@
+Hallo, ich habe mein Passwort vergessen und kann mich nicht mehr einloggen. Mein Benutzername ist 'MaxMuster'. Könnten Sie mir bitte ein neues Passwort zusenden?
+{
+    "Kategorie": "Password zurücksetzen",
+    "Antwort": "Hallo Max Muster, wir haben dein Passwort zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Max",
+    "Nachname": "Muster",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "MaxMuster"
+}
+Ich möchte mich als neuer Benutzer im Buchungssystem registrieren. Mein Name ist Anna Schulz und mein gewünschter Benutzername lautet 'AnnaS'.
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo Anna Schulz, dein Benutzerkonto wurde erfolgreich erstellt. Du kannst dich nun mit deinem Benutzernamen 'AnnaS' und dem Passwort '<NeuesPasswort>' im Buchungssystem einloggen. Du kannst dich unter <URL> anmelden. Wähle bitte beim ersten Login ein neues Passwort. Viele Grüße",
+    "Vorname": "Anna",
+    "Nachname": "Schulz",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "AnnaS"
+}
+Hallo, Ich kann mich nicht einloggen, obwohl ich das richtige Passwort habe. Der Benutzername lautet 'TennisFreak99'. Bitte helfen Sie mir weiter!
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo, bitte prüfe, ob du den richtigen Benutzernamen 'TennisFreak99' und das Passwort korrekt eingibst. Solltest du weiterhin Probleme haben, kontaktiere uns erneut, um dein Konto zu überprüfen und evtl. dein Passwort zurückzusetzen. Viele Grüße",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": "TennisFreak99"
+}
+Ich möchte gerne mein Passwort zurücksetzen. Mein Benutzername ist 'Sportler22'.
+{
+    "Kategorie": "Password zurücksetzen",
+    "Antwort": "Hallo Sportler22, wir haben dein Passwort zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "Sportler22"
+}
+Könnten Sie mir bitte einen neuen Benutzer anlegen? Mein Name ist Peter Meier, und ich möchte den Benutzernamen 'PeterM' verwenden.
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo Peter Meier, dein Benutzerkonto mit dem Benutzernamen 'PeterM' wurde erfolgreich erstellt. Du kannst dich nun mit deinem Benutzernamen und dem Passwort '<NeuesPasswort>' im Buchungssystem einloggen. Du kannst dich unter <URL> anmelden. Wähle bitte beim ersten Login ein neues Passwort. Viele Grüße",
+    "Vorname": "Peter",
+    "Nachname": "Meier",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "PeterM"
+}
+Ich habe mein Passwort vergessen und benötige Hilfe beim Zurücksetzen. Mein Benutzername ist 'TennisFan23'.
+{
+    "Kategorie": "Password zurücksetzen",
+    "Antwort": "Hallo TennisFan23, wir haben dein Passwort zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "TennisFan23"
+}
+Ich möchte mich als neuer Benutzer anmelden. Mein Name ist Lisa Müller, und ich möchte den Benutzernamen 'L_Mueller' verwenden.
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo Lisa Müller, dein Benutzerkonto mit dem Benutzernamen 'L_Mueller' wurde erfolgreich erstellt. Du kannst dich nun mit deinem Benutzernamen und dem Passwort '<NeuesPasswort>' im Buchungssystem einloggen. Du kannst dich unter <URL> anmelden. Wähle bitte beim ersten Login ein neues Passwort. Viele Grüße",
+    "Vorname": "Lisa",
+    "Nachname": "Müller",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "L_Mueller"
+}
+Ich kann mich mit meinem Benutzername 'HansG' nicht mehr einloggen. Könnten Sie mir bitte weiterhelfen?
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo Hans, bitte versuche, dein Passwort (falls möglich) via mail zurückzusetzen. Falls dies nicht funktioniert, kontaktiere uns bitte erneut, damit wir dein Konto weiter überprüfen können.",
+    "Vorname": "Hans",
+    "Nachname": "G.",
+    "Passwort": "",
+    "Benutzername": "HansG"
+}
+Ich möchte mein Passwort zurücksetzen. Der Benutzername ist 'Jan89'.
+{
+    "Kategorie": "Password zurücksetzen",
+    "Antwort": "Hallo Jan89, wir haben dein Passwort zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "Jan89"
+}
+Ich würde gerne als neuer Benutzer im System angelegt werden. Mein Name ist Thomas Fischer und der gewünschte Benutzername ist 'ThomasFischer'.
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo Thomas Fischer, dein Benutzerkonto mit dem Benutzernamen 'ThomasFischer' wurde erfolgreich erstellt. Du kannst dich nun mit deinem Benutzernamen und dem Passwort '<NeuesPasswort>' im Buchungssystem einloggen. Du kannst dich unter <URL> anmelden. Wähle bitte beim ersten Login ein neues Passwort. Viele Grüße",
+    "Vorname": "Thomas",
+    "Nachname": "Fischer",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "ThomasFischer"
+}
+Ich habe Probleme beim Einloggen. Der Benutzername 'Markus1980' funktioniert nicht, obwohl ich das Passwort korrekt eingebe.
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo Markus1980, bitte prüfe, ob du den richtigen Benutzernamen und das Passwort verwendest und setze (falls möglich) dein Passwort via Email zurück. Falls das Problem weiterhin besteht, kontaktiere uns, damit wir dein Konto weiter prüfen können.",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": "Markus1980"
+}
+Ich möchte mein Passwort ändern, da ich es vergessen habe. Mein Benutzername ist 'JuliaS'.
+{
+    "Kategorie": "Password zurücksetzen",
+    "Antwort": "Hallo Julia S., wir haben dein Passwort zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Julia",
+    "Nachname": "S.",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "JuliaS"
+}
+Ich würde mich gerne als neuer Benutzer registrieren. Mein Name ist Sophie Schmitt und mein Wunsch-Benutzername ist 'SophieS'.
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo Sophie Schmitt, dein Benutzerkonto mit dem Benutzernamen 'SophieS' wurde erfolgreich erstellt. Du kannst dich nun mit deinem Benutzernamen und dem Passwort '<NeuesPasswort>' im Buchungssystem einloggen. Du kannst dich unter <URL> anmelden. Wähle bitte beim ersten Login ein neues Passwort. Viele Grüße",
+    "Vorname": "Sophie",
+    "Nachname": "Schmitt",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "SophieS"
+}
+Ich habe mein Passwort vergessen. Der Benutzername lautet 'PaulTennis'.
+{
+    "Kategorie": "Password zurücksetzen",
+    "Antwort": "Hallo PaulTennis, wir haben dein Passwort zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "PaulTennis"
+}
+Könnten Sie bitte mein Passwort zurücksetzen? Der Benutzername ist 'Katrin_H'.
+{
+    "Kategorie": "Password zurücksetzen",
+    "Antwort": "Hallo Katrin_H, wir haben dein Passwort zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Katrin",
+    "Nachname": "H.",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "Katrin_H"
+}
+Ich möchte mich als neuer Benutzer anmelden. Mein Name ist Christian Becker, und mein Benutzername sollte 'CBecker' sein.
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo Christian Becker, dein Benutzerkonto mit dem Benutzernamen 'CBecker' wurde erfolgreich erstellt. Du kannst dich nun mit deinem Benutzernamen und dem Passwort '<NeuesPasswort>' im Buchungssystem einloggen. Du kannst dich unter <URL> anmelden. Wähle bitte beim ersten Login ein neues Passwort. Viele Grüße",
+    "Vorname": "Christian",
+    "Nachname": "Becker",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "CBecker"
+}
+Ich kann mich nicht einloggen, obwohl ich den richtigen Benutzernamen 'SabineTennis' habe. Was soll ich tun?
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo SabineTennis, wir haben dein Passwort zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Falls dies das Problem nicht behoben hat melde dich bitte nochmal. Bitte ändere dieses Passwort beim nächsten Login (sofern möglich). Viele Grüße",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": "SabineTennis"
+}
+Mein Benutzername ist 'LauraW', aber ich kann mich nicht mehr einloggen. Was kann ich tun?
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo LauraW, wir haben dein Passwort zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Falls dies das Problem nicht behoben hat melde dich bitte nochmal. Bitte ändere dieses Passwort beim nächsten Login (sofern möglich). Viele Grüße",
+    "Vorname": "Laura",
+    "Nachname": "W.",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "LauraW"
+}
+Ich möchte mein Passwort zurücksetzen. Der Benutzername ist 'Stefan01'
+{
+    "Kategorie": "Password zurücksetzen",
+    "Antwort": "Hallo Stefan01, wir haben dein Passwort zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße"",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "Stefan01"
+}
+Mein Name ist Oliver Baum, und ich möchte mich als neuer Benutzer anmelden. Mein gewünschter Benutzername ist 'OliverB'.
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo Oliver Baum, dein Benutzerkonto mit dem Benutzernamen 'OliverB' wurde erfolgreich erstellt. Du kannst dich nun mit deinem Benutzernamen und dem Passwort '<NeuesPasswort>' im Buchungssystem einloggen. Wähle bitte beim ersten Login ein neues Passwort. Viele Grüße",
+    "Vorname": "Oliver",
+    "Nachname": "Baum",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "OliverB"
+}
+"Hallo, ich habe mein Passwort vergessen. Mein Benutzername ist 'max.muster' und ich möchte das Passwort zurücksetzen."
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Max, ein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße"",
+    "Vorname": "Max",
+    "Nachname": "Muster",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "max.muster"
+}
+"Ich möchte mich registrieren. Mein Name ist Anna Schmidt und mein gewünschter Benutzername lautet 'anna.s'."
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo Anna, dein Benutzerkonto wurde erfolgreich erstellt. Du kannst dich jetzt mit deinem Benutzernamen 'anna.s' und dem Passwort '<NeuesPasswort>' nmelden. Du kannst dich unter <URL> anmelden. Bitte ändere das Passwort beim ersten Login. Viele Grüße",
+    "Vorname": "Anna",
+    "Nachname": "Schmidt",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "anna.s"
+}
+"Ich habe Probleme mit der Buchung von Tennishallen. Immer wenn ich versuche, ein Court zu reservieren, wird die Buchung nicht bestätigt. Könnte es an einem technischen Problem liegen?"
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo, vielen Dank für deine Anfrage. Wir prüfen derzeit das Problem mit der Buchung und werden uns schnellstmöglich bei dir melden. Bitte versuche es später noch einmal. Entschuldige die Unannehmlichkeiten.",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": ""
+}
+"Mein Benutzername ist 'julia.meyer', aber ich kann mich nicht mehr einloggen. Könnt ihr mir bitte mein Passwort zurücksetzen?"
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Julia, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Julia",
+    "Nachname": "Meyer",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "julia.meyer"
+}
+"Ich möchte einen neuen Benutzer anlegen lassen. Mein Name ist Peter König und der Benutzername sollte 'peter.k' lauten."
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo Peter, dein Benutzerkonto mit dem Benutzernamen 'peter.k' wurde erfolgreich erstellt. Du kannst dich nun mit dem Passwort <NeuesPasswort> anmelden. Du kannst dich unter <URL> anmelden. Bitte ändere das Passwort nach dem ersten Login. Viele Grüße
+    "Vorname": "Peter",
+    "Nachname": "König",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "peter.k"
+}
+"Ich habe das Gefühl, dass jemand auf mein Konto zugreift. Kann ich mein Passwort ändern lassen?"
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo, du kannst dein Passwort gerne selbst auf der Website ändern, sofern du noch Zugriff hast. Alternativ kannst du mir deinen Benutzernamen mitteilen und ich setze das Passwort für dich zurück. Viele Grüße",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": ""
+}
+"Ich kann mich nicht mit meinem Benutzernamen 'sophie.w' einloggen, obwohl ich sicher bin, dass das Passwort richtig ist. Kannst du mir helfen?"
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Sophie, dein Passwort wurde zurückgesetzt. Dein neue Passwort ist '<NeuesPasswort>'. Bitte versuche es anschließend noch einmal.",
+    "Vorname": "Sophie",
+    "Nachname": "Wagner",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "sophie.w"
+}
+"Ich möchte einen neuen Account für meinen Freund anlegen. Sein Name ist Tim Neumann, und der Benutzername soll 'timn' sein."
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo, dein Benutzerkonto für Tim Neumann mit dem Benutzernamen 'timn' wurde erfolgreich erstellt. Er kann sich nun mit dem Passwort '<NeuesPasswort>' anmelden. Dieses Passwort sollte nach dem ersten Login geändert werden. Er kannst dich unter <URL> anmelden. Viele Grüße",
+    "Vorname": "Tim",
+    "Nachname": "Neumann",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "timn"
+}
+"Ich kann keine Plätze mehr für diese Woche buchen. Sind die Buchungen für den kommenden Monat schon offen?"
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo, die Buchungen für den kommenden Monat sollten bald verfügbar sein. Wir arbeiten daran, die Buchungsoptionen zu aktualisieren. Bitte versuche es später noch einmal.",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": ""
+}
+"Hallo, mein Benutzername ist 'michael.b', aber ich kann mich nicht mehr anmelden. Könnt ihr mir bitte helfen?"
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Michael, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Michael",
+    "Nachname": "Bauer",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "michael.b"
+}
+"Hallo, ich habe mein Passwort vergessen. Mein Benutzername ist 'jan.schmidt'. Könnt ihr mir bitte helfen?"
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Jan, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Jan",
+    "Nachname": "Schmidt",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "jan.schmidt"
+}
+"Ich habe den Benutzernamen 'sarah.j' und möchte ein neues Konto anlegen. Was muss ich tun?"
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo Sarah, dein Benutzerkonto mit dem Benutzernamen 'sarah.j' wurde erfolgreich erstellt. Du kannst dich nun mit dem Passwort '<NeuesPasswort>' anmelden. Dieses Passwort sollte möglichst nach dem ersten Login geändert werden. Du kannst dich unter <URL> anmelden. Viele Grüße",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "sarah.j"
+}
+"Ich kann mich nicht einloggen. Mein Benutzername ist 'lucas.k'. Bitte helft mir."
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Lucas, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "lucas.k"
+}
+"Ich möchte ein Benutzerkonto für meine Freundin anlegen. Ihr Name ist Claudia Meier, und der Benutzername sollte 'claudia.m' sein."
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo, dein Benutzerkonto für Claudia Meier mit dem Benutzernamen 'claudia.m' wurde erfolgreich erstellt. Sie kann sich nun mit dem Passwort '<NeuesPasswort>' anmelden. Dieses Passwort sollte möglichst nach dem ersten Login geändert werden. Viele Grüße",
+    "Vorname": "Claudia",
+    "Nachname": "Meier",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "claudia.m"
+}
+"Ich habe gerade versucht, mich anzumelden, aber mein Benutzername 'thomas.w' wird nicht akzeptiert. Könnt ihr mir helfen?"
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Thomas, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Thomas",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "thomas.w"
+}
+"Ich möchte meine Buchung für den Tennisplatz ändern. Ist das möglich?"
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo, leider können Buchungen momentan nicht nachträglich geändert werden. Bitte storniere die bestehende Buchung und erstelle eine neue. Wenn du weitere Hilfe benötigst, stehe ich gerne zur Verfügung.",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": ""
+}
+"Mein Benutzername ist 'maximilian.h' und ich habe mein Passwort vergessen. Könnt ihr mir helfen?"
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Maximilian, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Maximilian",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "maximilian.h"
+}
+"Kann ich mein Konto auch auf einem anderen Gerät verwenden? Ich versuche, mich mit meinem Benutzerkonto 'elisabeth.b' einzuloggen, aber es funktioniert nicht."
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo Elisabeth, du kannst dein Konto auf jedem Gerät nutzen, solange du die richtigen Zugangsdaten verwendest. Bitte stelle sicher, dass du den richtigen Benutzernamen und das richtige Passwort eingibst. Wenn du weiterhin Probleme hast, melde dich bei uns und wir können dein Passwort zurücksetzen. Viele Grüße",
+    "Vorname": "Elisabeth",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": "elisabeth.b"
+}
+"Ich möchte ein neues Benutzerkonto erstellen. Mein Name ist Lutz Becker."
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo Lutz, dein Benutzerkonto mit dem Benutzernamen 'lutz.becker' wurde erfolgreich erstellt. Dein Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Lutz",
+    "Nachname": "Becker",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "lutz.becker"
+}
+"Ich kann keine Buchung für das Wochenende vornehmen. Die Plätze sind alle ausgebucht. Was kann ich tun?"
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo, leider sind alle Plätze für das Wochenende bereits ausgebucht. Du kannst es später noch einmal versuchen oder dich für eine spätere Buchung anmelden. Wir hoffen, dass bald wieder Plätze verfügbar sind.",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": ""
+}
+"Ich möchte mein Passwort ändern. Mein Benutzername ist 'susanne.kramer'."
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Susanne, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Susanne",
+    "Nachname": "Kramer",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "susanne.kramer"
+}
+"Ich kann mein Passwort nicht ändern. Könnt ihr mir helfen?"
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo, um das Passwort zu ändern, gehe bitte auf der Website auf 'Profil' und 'Passwort ändern'. Wenn du weiterhin Schwierigkeiten hast, melde dich bei uns, und wir helfen dir gerne weiter.",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": ""
+}
+"Ich möchte ein neues Konto erstellen. Mein Name ist Mark Tiedemann und der Benutzername sollte 'mark.tiedemann' sein."
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo Mark, dein Benutzerkonto mit dem Benutzernamen 'mark.tiedemann' wurde erfolgreich erstellt. Dein Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Mark",
+    "Nachname": "Tiedemann",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "mark.tiedemann"
+}
+"Ich kann mich nicht anmelden. Mein Benutzername ist 'katja.s'. Was kann ich tun?"
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Katja, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Katja",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "katja.s"
+}
+"Ich habe ein Problem mit der Buchung des Tennisplatzes. Der Kalender zeigt keine freien Plätze an. Könnt ihr das prüfen?"
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo, wir prüfen das Problem mit der Buchungsübersicht und werden es schnellstmöglich beheben. In der Zwischenzeit versuche es bitte später noch einmal.",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": ""
+}
+"Ich möchte meine Buchung für den Tennisplatz stornieren. Wie kann ich das tun?"
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo, um deine Buchung zu stornieren, gehe im Buchungskalender auf deine Buchung und auf 'löschen'. Bei weiteren Fragen helfen wir dir gerne weiter.",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": ""
+}
+"Ich möchte für mein Team ein Konto anlegen. Mein Name ist Julia Müller."
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo Julia, dein Benutzerkonto mit dem Benutzernamen 'julia.mueller' wurde erfolgreich erstellt. Dein Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Julia",
+    "Nachname": "Mueller",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "julia.mueller"
+}
+"Mein Benutzername ist 'peter.f' und ich kann mich seit gestern nicht mehr einloggen. Kann das Passwort zurückgesetzt werden?"
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Peter, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Peter",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "peter.f"
+}
+"Ich möchte für meine Tochter ein Benutzerkonto anlegen. Ihr Name ist Lisa Weber."
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo, dein Benutzerkonto für Lisa Weber mit dem Benutzernamen 'lisa.w' wurde erfolgreich erstellt. Das Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Lisa",
+    "Nachname": "Weber",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "lisa.weber"
+}
+"Ich kann mein Passwort nicht zurücksetzen. Ich habe keinen Link erhalten. Was soll ich tun?"
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo, es kann manchmal etwas dauern, bis der Link zum Zurücksetzen des Passworts ankommt. Bitte überprüfe auch deinen Spam-Ordner. Wenn der Link weiterhin nicht ankommt, melde dich bei uns mit deinem Benutzernamen und wir setzen dein Passwort zurück. Viele Grüße",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": ""
+}
+"Ich habe ein Konto mit dem Benutzernamen 'heike.m'. Mein Passwort funktioniert nicht mehr. Könnt ihr mir ein neues Passwort zuschicken?"
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Heike, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Heike",
+    "Nachname": "Meyer",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "heike.m"
+}
+"Ich möchte mich anmelden, aber mein Benutzername 'rolf.b' wird nicht akzeptiert. Was soll ich tun?"
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Rolf, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Rolf",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "rolf.b"
+}
+"Ich möchte meinen Account löschen. Wie gehe ich dabei vor?"
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo, Du musst dich nicht um die Löschung deines Accounts kümmern. Solltest du aus dem Verein austreten nehmen wir die Löschung dann selbst vor. Viele Grüße",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": ""
+}
+"Ich möchte ein Benutzerkonto für meinen Sohn anlegen. Sein Name ist Tom Krause und der Benutzername sollte 'tom.krause' sein."
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo, dein Benutzerkonto für Tom Krause mit dem Benutzernamen 'tom.krause' wurde erfolgreich erstellt. Das Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Tom",
+    "Nachname": "Krause",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "tom.krause"
+}
+"Ich versuche, mich auf der Buchungsseite anzumelden, aber es lädt immer nur die Startseite. Liegt das an meinem Account?"
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo, es scheint ein technisches Problem zu geben. Bitte versuche es später noch einmal. Viele Grüße",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": ""
+}
+"Ich habe das Passwort für mein Konto vergessen. Mein Benutzername lautet 'laura.n'."
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Laura, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Laura",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "laura.n"
+}
+"Mein Benutzername ist 'oliver.h'. Ich möchte mein Passwort zurücksetzen, da ich mich nicht mehr einloggen kann."
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Oliver, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Oliver",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "oliver.h"
+}
+"Ich möchte eine Reservierung vornehmen, aber die Webseite funktioniert nicht richtig. Was kann ich tun?"
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo, wir überprüfen derzeit das technische Problem. Bitte versuche es später noch einmal. Sollte das Problem weiterhin bestehen, melde dich bei uns, und wir werden dir weiterhelfen.",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": ""
+}
+"Ich möchte ein Konto für meinen Bruder anlegen. Sein Name ist Erik Zimmermann"
+{
+    "Kategorie": "Benutzer anlegen",
+    "Antwort": "Hallo, dein Benutzerkonto für Erik Zimmermann mit dem Benutzernamen 'erik.zimmermann' wurde erfolgreich erstellt. Das Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Erik",
+    "Nachname": "Zimmermann",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "erik.zimmermann"
+}
+"Mein Benutzername ist 'anna.g'. Ich kann mich seit der letzten Änderung des Systems nicht mehr einloggen."
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo Anna, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "Anna",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "anna.g"
+}
+"Ich kann auf meiner Buchungsseite keine freien Zeiten finden. Wurde etwas geändert?"
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo, die freien Zeiten für den Tennisplatz sind derzeit sehr gefragt. Bitte versuche es zu einem späteren Zeitpunkt noch einmal oder melde dich bei uns, wenn du spezifische Fragen hast.",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": ""
+}
+"Ich habe mein Passwort vergessen. Mein Benutzername ist 'david.l'. Könnt ihr mir bitte ein neues Passwort schicken?"
+{
+    "Kategorie": "Passwort zurücksetzen",
+    "Antwort": "Hallo David, dein Passwort wurde zurückgesetzt. Dein neues Passwort ist '<NeuesPasswort>'. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+    "Vorname": "David",
+    "Nachname": "",
+    "Passwort": "<NeuesPasswort>",
+    "Benutzername": "david.l"
+}
+Ich möchte meine Buchung für nächste Woche stornieren. Was muss ich tun?
+{
+    "Kategorie": "Sonstiges",
+    "Antwort": "Hallo, bitte gehe im Buchungskalender auf die entsprechende Buchung und wähle 'löschen' aus. Bei weiteren Fragen stehe ich gerne zur Verfügung.",
+    "Vorname": "",
+    "Nachname": "",
+    "Passwort": "",
+    "Benutzername": ""
+}
+Hallo, ich habe meinen Zugang zum Buchungssystem vergessen. Bitte setze mein Passwort zurück. Vielen Dank!  
+{
+       "Kategorie": "Password zurücksetzen",
+       "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort aber bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+       "Vorname": "",
+       "Nachname": "",
+       "Passwort": "<NeuesPasswort>",
+       "Benutzername": ""
+}
+Hallo, ich kann mich nicht mehr einloggen. Bitte setze mein Passwort zurück. Gruß, Thomas  
+{
+       "Kategorie": "Sonstiges",
+       "Antwort": "Hallo Thomas, ich brauche deinen Benutzernamen um das Passwort zurückzusetzen. Bitte schick mir erneut eine Anfrage zum Passwortzurücksetzen mit deinem Benutzernamen oder Vor und Nachnamen. Viele Grüße",
+       "Vorname": "Thomas",
+       "Nachname": "",
+       "Passwort": "",
+       "Benutzername": ""
+}
+Hi! Ich möchte mich gerne registrieren, um Tennisplätze zu buchen. Was muss ich tun?  
+{
+       "Kategorie": "Sonstiges",
+       "Antwort": "Hallo! Um dich zu registrieren, musst du mir deinen Vor und Nachname mitteilen und ich lege deinen Account an. Schick mir einfach nochmal eine Mail mit den entsprechenden Daten. Viele Grüße",
+       "Vorname": "",
+       "Nachname": "",
+       "Passwort": "",
+       "Benutzername": ""
+}
+Hallo, ich bin neu im Verein und würde gerne ein Benutzerkonto erstellen. Bitte hilf mir. Beste Grüße, Sandra  
+{
+       "Kategorie": "Benutzer anlegen",
+       "Antwort": "Hallo Sandra, willkommen im Verein! Um dich zu registrieren, musst du mir deinen Vor und Nachname mitteilen und ich lege deinen Account an. Schick mir einfach nochmal eine Mail mit den entsprechenden Daten. Viele Grüße",
+       "Vorname": "Sandra",
+       "Nachname": "",
+       "Passwort": "",
+       "Benutzername": ""
+}
+Hilfe! Ich habe mein Passwort vergessen und kann mich nicht einloggen.  
+   
+{
+       "Kategorie": "Password zurücksetzen",
+       "Antwort": "Hallo, Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+       "Vorname": "",
+       "Nachname": "",
+       "Passwort": "",
+       "Benutzername": ""
+}
+Sehr geehrter Administrator, ich möchte meinen Zugang zum Buchungssystem wiederherstellen. Kann mein Passwort zurückgesetzt werden?  
+{
+       "Kategorie": "Password zurücksetzen",
+       "Antwort": "Hallo, Bitte teilen Sie mir Ihren Vor und Nachnamen mit, damit ich Ihr Passwort zurückzusetzen kann. Viele Grüße",
+       "Vorname": "",
+       "Nachname": "",
+       "Passwort": "",
+       "Benutzername": ""
+}
+Hallo, ich möchte einen Tennisplatz buchen, aber ich finde mein Passwort nicht mehr.  
+{
+       "Kategorie": "Password zurücksetzen",
+       "Antwort": "Hallo, Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+       "Vorname": "",
+       "Nachname": "",
+       "Passwort": "",
+       "Benutzername": ""
+}
+Hallo, ich möchte einen Tennisplatz buchen, aber ich finde mein Passwort nicht mehr. Mein Benutzername ist daniel.herrlich  
+{
+       "Kategorie": "Password zurücksetzen",
+       "Antwort": "Hallo Daniel, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort aber bitte bei deinem nächsten Login. Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+       "Vorname": "Daniel",
+       "Nachname": "Herrlich",
+       "Passwort": "<NeuesPasswort>",
+       "Benutzername": "daniel.herrlich"
+}
+Hi, mein Name ist Max und ich möchte ein Benutzerkonto erstellen, damit ich Tennisplätze buchen kann.  
+{
+       "Kategorie": "Benutzer anlegen",
+       "Antwort": "Hallo Max, ich werde ein Benutzerkonto für dich anlegen und dir die Zugangsdaten zusenden. Ich brauche nur noch deinen Nachnamen, bitte schick mir nochmal eine Mail mit deiner Absicht und Vor und Nachnamen. Vielen Dank für dein Interesse! Viele Grüße",
+       "Vorname": "Max",
+       "Nachname": "",
+       "Passwort": "",
+       "Benutzername": ""
+}
+Hallo! Ich kann mich seit gestern nicht mehr einloggen. Was muss ich tun?  
+
+{
+       "Kategorie": "Password zurücksetzen",
+       "Antwort": "Hallo, Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+       "Vorname": "",
+       "Nachname": "",
+       "Passwort": "",
+       "Benutzername": ""
+}
+Guten Tag, ich möchte gerne einen neuen Account erstellen, um Tennis zu buchen. Bitte lassen Sie mich wissen, was ich tun muss.  
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo, Bitte teile mir deinen Namen mit, damit ich den Account korrekt anlegen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+Hallo zusammen, ich habe mein Passwort vergessen und würde gerne einen Tennisplatz buchen. Bitte setzt mein Passwort zurück.  
+
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, itte teile mir deinen Namen mit, damit ich das Passwort zurücksetzen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+Hi, ich möchte ein Benutzerkonto erstellen, aber die Registrierung funktioniert nicht. Was kann ich tun?  
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo! Es tut mir leid, dass die Registrierung nicht funktioniert. Bitte teile mir deinen vollständigen Namen mit, und ich werde ein Konto für dich anlegen.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+Hallo, seit dem Update bekomme ich immer eine Fehlermeldung beim Einloggen. Was kann ich tun?  
+{
+        "Kategorie": "Sonstiges",
+        "Antwort": "Hallo, tut mir leid, dass du Probleme beim Einloggen hast. Bitte teile mir deinen Namen mit und welche Fehlermeldung du genau bekommst, damit ich dir weiterhelfen kann.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+Ich kann mich nicht einloggen, bitte setzt mein Passwort zurück.   
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+Hi, ich würde gerne ein Benutzerkonto anlegen, aber ich weiß nicht, wie es geht.   
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo! Bitte teile mir deinen Namen mit, und ich werde das Konto für dich anlegen. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+Hallo, ich möchte mich neu anmelden, um Tennisplätze zu buchen. Wie geht das?  
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo! Bitte teile mir deinen Namen mit, und ich werde das Konto für dich anlegen. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+Ich habe vor kurzem mein Passwort geändert, aber jetzt kann ich mich nicht mehr einloggen. Was soll ich tun?  
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+Guten Tag, ich habe mein Passwort vergessen und komme nicht mehr in das Buchungssystem. Bitte setzen Sie mein Passwort zurück. Mein Benutzername ist mark.hoh. 
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Mark, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Mark",
+        "Nachname": "Hoh",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "mark.hoh"
+}
+Hallo, ich kann mich nicht anmelden und habe auch mein Passwort vergessen. Was muss ich tun? Viele Grüße Tanja Bauer
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Tanja",
+        "Nachname": "Bauer",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "tanja.bauer"
+}
+Ich habe vor kurzem mein Passwort geändert, aber es funktioniert nicht. Kann es zurückgesetzt werden?  
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+Hey, ich kann mich seit gestern nicht mehr einloggen. Ich hoffe, ihr könnt mir schnell helfen, das Passwort zurückzusetzen. Danke u. Viele Grüße Tom Ahorn
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Tom",
+        "Nachname": "Ahorn",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "tom.ahorn"
+}
+Ich würde mich gerne anmelden, aber irgendwie finde ich den Anmelde-Button nicht. Wo muss ich klicken?  
+{
+        "Kategorie": "Sonstiges",
+        "Antwort": "Hallo, um die Startseite (auf der du dich anmelden kannst) zu öffnen, öffne einfach den folgenden Link: <URL>. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+Guten Tag, ich habe gerade mein Passwort geändert und jetzt komme ich nicht mehr ins System. Kann es bitte zurückgesetzt werden?  Mit freundlichen Grüßen Tatjana Groß
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Tatjana",
+        "Nachname": "Groß",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "tatjana.groß"
+}
+Hey, ich bin neu im Verein und würde gerne ein Konto erstellen. Wo muss ich mich anmelden? Mein Name ist Luis Hoffmann.
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo Luis, Ich habe dir ein Konto angelegt. Du kannst dich unter <URL> mit luis.hoffmann und dem Passwort '<NeuesPasswort>' anmelden. Viele Grüße",
+        "Vorname": "Luis",
+        "Nachname": "Hoffmann",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "luis.hoffmann"
+}
+Hallo, ich wollte heute Tennis spielen, aber ich kann mich nicht mehr einloggen. Hilf mir, mein Passwort zurückzusetzen!  
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": ",
+        "Benutzername": ""
+}
+Hi! Kannst du mir bitte helfen, mein Passwort zu ändern? Ich komme irgendwie nicht mehr in mein Konto.  Mein Benutzername ist timo.hoch
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Timo",
+        "Nachname": "Hoch",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "timo.hoch"
+}
+Guten Morgen, ich kann mich nicht mehr anmelden. Mein Passwort geht nicht mehr. Bitte hilft mir!  
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann. Viele Grüße",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+Hallo, ich wollte mich gerade einloggen, aber es funktioniert einfach nicht. Ist mein Account deaktiviert?  
+{
+        "Kategorie": "Sonstiges",
+        "Antwort": "Hallo, es tut mir leid, dass du Schwierigkeiten hast. Dein Account ist nicht deaktiviert. Ich kann dir beim Zurücksetzen des Passworts helfen. Bitte teile mir deinen Namen mit, damit ich dir weiterhelfen kann.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+Ich habe vor ein paar Tagen einen Account erstellt und wollte mich gerade anmelden. Aber das Passwort funktioniert nicht. Was muss ich tun?  Mein Name ist Bettina Meier.
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Bettina, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Bettina",
+        "Nachname": "Meier",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "bettina.meier"
+}
+    ch wollte gerade ein Platz für heute buchen, aber ich komme nicht ins System. Setzt ihr bitte mein Passwort zurück?  
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, Bitte teile mir deinen Namen mit, damit ich die Anfrage korrekt zuordnen kann.",
+        "Vorname": "",
+        "Nachname": "",
+        "Passwort": "",
+        "Benutzername": ""
+}
+/command: Lege einen Account für Till Schweiger an.
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo, Der Account wurde erfolgreich angelegt. Und man kann sich mit till.schweiger unter <URL> mit '<NeuesPasswort>' anmelden. Viele Grüße",
+        "Vorname": "Till",
+        "Nachname": "Schweiger",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "till.schweiger"
+}
+/command: Setze das Passwort von anna.schmidt zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Anna",
+        "Nachname": "Schmidt",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "anna.schmidt"
+}
+/command: Setze das Passwort von max.mustermann zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Max",
+        "Nachname": "Mustermann",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "max.mustermann"
+}  
+/command: Setze das Passwort von lena.berg zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Lena",
+        "Nachname": "Berg",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "lena.berg"
+}
+/command: Erstelle ein Benutzerkonto für jens.fischer
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo Jens, dein Benutzerkonto mit dem Benutzernamen 'jens.fischer' wurde erfolgreich erstellt. Dein Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+        "Vorname": "Jens",
+        "Nachname": "Fischer",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "jens.fischer"
+}
+/command: Setze das Passwort von sarah.meyer zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Sarah",
+        "Nachname": "Meyer",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "sarah.meyer"
+}
+/command: Setze das Passwort von paul.schulz zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Paul",
+        "Nachname": "Schulz",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "paul.schulz"
+}
+/command: Erstelle ein Benutzerkonto für tom.schneider
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo Tom, Dein Benutzerkonto mit dem Benutzernamen 'tom.schneider' wurde erfolgreich erstellt. Dein Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+        "Vorname": "Tom",
+        "Nachname": "Schneider",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "tom.schneider"
+}
+/command: Setze das Passwort von sofia.klein zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Sofia",
+        "Nachname": "Klein",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "sofia.klein"
+}
+/command: Setze das Passwort von andreas.schwarz zurück 
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Andreas",
+        "Nachname": "Schwarz",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "andreas.schwarz"
+}
+/command: Setze das Passwort von maria.schmidt zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Maria",
+        "Nachname": "Schmidt",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "maria.schmidt"
+}
+/command: Erstelle ein Benutzerkonto für kevin.kramer
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo, Dein Benutzerkonto mit dem Benutzernamen 'kevin.kramer' wurde erfolgreich erstellt. Dein Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+        "Vorname": "Kevin",
+        "Nachname": "Kramer",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "kevin.kramer"
+}
+/command: Erstell ein Benutzerkonto für kevin.kramer
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo, Dein Benutzerkonto mit dem Benutzernamen 'kevin.kramer' wurde erfolgreich erstellt. Dein Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+        "Vorname": "Kevin",
+        "Nachname": "Kramer",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "kevin.kramer"
+}
+/command: Lege ein Konto für kevin.kramer an
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo, Dein Benutzerkonto mit dem Benutzernamen 'kevin.kramer' wurde erfolgreich erstellt. Dein Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+        "Vorname": "Kevin",
+        "Nachname": "Kramer",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "kevin.kramer"
+}
+/command: Erstelle ein Benutzerkonto für kevin.kall
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo, Dein Benutzerkonto mit dem Benutzernamen 'kevin.kall' wurde erfolgreich erstellt. Dein Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+        "Vorname": "Kevin",
+        "Nachname": "Kall",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "kevin.kall"
+}
+/command: Leg ein Benutzerkonto für kevin.kall an
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo, Dein Benutzerkonto mit dem Benutzernamen 'kevin.kall' wurde erfolgreich erstellt. Dein Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+        "Vorname": "Kevin",
+        "Nachname": "Kall",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "kevin.kall"
+}
+/command: Erstelle ein Benutzerkonto für kevin.kramer
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo, Dein Benutzerkonto mit dem Benutzernamen 'kevin.kramer' wurde erfolgreich erstellt. Dein Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+        "Vorname": "Kevin",
+        "Nachname": "Kramer",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "kevin.kramer"
+}
+/command: Setze das Passwort von lisa.peter zurück
+
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Lisa",
+        "Nachname": "Peter",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "lisa.peter"
+}
+/command: Setze das Passwort von sebastian.kraft zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Sebastian",
+        "Nachname": "Kraft",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "sebastian.kraft"
+}
+/command: Erstelle ein Benutzerkonto für nina.mueller
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo, Dein Benutzerkonto mit dem Benutzernamen 'nina.mueller' wurde erfolgreich erstellt. Dein Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+        "Vorname": "Nina",
+        "Nachname": "Mueller",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "nina.mueller"
+}
+/command: Setze das Passwort von thomas.schmidt zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Thomas, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Thomas",
+        "Nachname": "Schmidt",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "thomas.schmidt"
+}
+/command: Setze das Passwort von emilia.meyer zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Emilia, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Emilia",
+        "Nachname": "Meyer",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "emilia.meyer"
+}
+/command: Setze das Passwort von martin.klein zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Martin, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Martin",
+        "Nachname": "Klein",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "martin.klein"
+}
+/command: Setze das Passwort von sofia.huber zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Sofia, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Sofia",
+        "Nachname": "Huber",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "sofia.huber"
+}
+/command: Setze das Passwort von alexander.schulz zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Alexander, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Alexander",
+        "Nachname": "Schulz",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "alexander.schulz"
+}
+/command: Setze das Passwort von marie.schneider zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Marie, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Marie",
+        "Nachname": "Schneider",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "marie.schneider"
+}
+/command: Setze das Passwort von peter.gerber zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Peter, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Peter",
+        "Nachname": "Gerber",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "peter.gerber"
+}
+/command: Setze das Passwort von julia.schulze zurück 
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Julia, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Julia",
+        "Nachname": "Schulze",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "julia.schulze"
+}
+/command: Setze das Passwort von benjamin.richter zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Benjamin, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Benjamin",
+        "Nachname": "Richter",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "benjamin.richter"
+}
+/command: Setze das Passwort von katharina.bauer zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Katharina, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Katharina",
+        "Nachname": "Bauer",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "katharina.bauer"
+}
+/command: Setze das Passwort von simon.martin zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Simon, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Simon",
+        "Nachname": "Martin",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "simon.martin"
+}
+/command: Setze das Passwort von lisa.jung zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Lisa, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Lisa",
+        "Nachname": "Jung",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "lisa.jung"
+}
+/command: Setze das Passwort von oliver.weber zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Oliver, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Oliver",
+        "Nachname": "Weber",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "oliver.weber"
+}
+/command: Setze das Passwort von kathrin.koch zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Kathrin, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Kathrin",
+        "Nachname": "Koch",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "kathrin.koch"
+}
+/command: Setze das Passwort von jan.schneider zurück 
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Jan, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Jan",
+        "Nachname": "Schneider",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "jan.schneider"
+}
+/command: Setze das Passwort von julian.fischer zurück 
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Julian, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Julian",
+        "Nachname": "Fischer",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "julian.fischer"
+}
+/command: Setze das Passwort von nico.meyer zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Nico, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Nico",
+        "Nachname": "Meyer",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "nico.meyer"
+}
+/command: Setze das Passwort von sarah.hartmann zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Sarah, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Sarah",
+        "Nachname": "Hartmann",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "sarah.hartmann"
+}
+/command: Setze das Passwort von tim.schulze zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Tim, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Tim",
+        "Nachname": "Schulze",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "tim.schulze"
+}
+/command: Setze das Passwort von ben.schneider zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Ben, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Ben",
+        "Nachname": "Schneider",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "ben.schneider"
+}
+/command: Erstelle ein Konto für tom.cron
+{
+        "Kategorie": "Benutzer anlegen",
+        "Antwort": "Hallo, Dein Benutzerkonto mit dem Benutzernamen 'tom.cron' wurde erfolgreich erstellt. Dein Passwort ist '<NeuesPasswort>'. Du kannst dich unter <URL> anmelden. Bitte ändere dieses Passwort beim nächsten Login. Viele Grüße",
+        "Vorname": "Tom",
+        "Nachname": "Cron",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "tom.cron"
+}
+/command: Setze das Passwort von felix.schumacher zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Felix, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Felix",
+        "Nachname": "Schumacher",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "felix.schumacher"
+}
+/command: Setze das Passwort von katrin.dieter zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Katrin, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Katrin",
+        "Nachname": "Dieter",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "katrin.dieter"
+}
+/command: Setze das Passwort von christoph.weiss zurück 
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Christoph, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Christoph",
+        "Nachname": "Weiss",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "christoph.weiss"
+}
+/command: Setze das Passwort von anja.krause zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Anja, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Anja",
+        "Nachname": "Krause",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "anja.krause"
+}
+/command: Setze das Passwort von holger.schmidt zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Holger, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Holger",
+        "Nachname": "Schmidt",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "holger.schmidt"
+}
+/command: Setze das Passwort von carla.johannsen zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Carla, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Carla",
+        "Nachname": "Johannsen",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "carla.johannsen"
+}
+/command: Setze das Passwort von dieter.müller zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Dieter, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Dieter",
+        "Nachname": "Müller",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "dieter.mueller"
+}
+/command: Setze das Passwort von stefan.neumann zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Stefan, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Stefan",
+        "Nachname": "Neumann",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "stefan.neumann"
+}
+/command: Setze das Passwort von marion.schreiber zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Marion, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Marion",
+        "Nachname": "Schreiber",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "marion.schreiber"
+}
+/command: Setze das Passwort von sebastian.wagner zurück
+{
+        "Kategorie": "Password zurücksetzen",
+        "Antwort": "Hallo Sebastian, ich habe dein Passwort auf <NeuesPasswort> zurückgesetzt. Ändere das Passwort bitte bei deinem nächsten Login. Viele Grüße",
+        "Vorname": "Sebastian",
+        "Nachname": "Wagner",
+        "Passwort": "<NeuesPasswort>",
+        "Benutzername": "sebastian.wagner"
+}
