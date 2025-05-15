@@ -1,3 +1,4 @@
+***This is a public version of my private repo, without sensitive data***
 ## Project Overview
 
 This project creates an AI support agent specialized in certain tennis-related inquiries. It uses a small LLM that I adapted to process user support requests. The support agent is embedded into a dashboard that provides a visual interface for relevant API calls. My emails are fetched and analyzed by the AI model and displayed together with a classification of the required task, relevant user data (like username) and a proposed response. Optionally I can still modify the response before I submit the task for automated excecution (done by API calls). 
